@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2024-04-28T00:10:57.467241+00:00",
+  "timestamp": "2024-04-30T00:09:11.656150+00:00",
   "repo": "OR13/draft-steele-spice-transparency-tokens",
   "labels": [
     {
@@ -235,6 +235,32 @@
           "updatedAt": "2023-12-04T17:35:07Z"
         }
       ],
+      "reviews": []
+    },
+    {
+      "number": 8,
+      "id": "PR_kwDOKuZz1s5t9JS-",
+      "title": "typo, simplify",
+      "url": "https://github.com/OR13/draft-steele-spice-transparency-tokens/pull/8",
+      "state": "OPEN",
+      "author": "martinthomson",
+      "authorAssociation": "NONE",
+      "assignees": [],
+      "labels": [],
+      "body": "There was a typo here, but the simplification might be better.",
+      "createdAt": "2024-04-29T01:34:46Z",
+      "updatedAt": "2024-04-29T01:34:46Z",
+      "baseRepository": "OR13/draft-steele-spice-transparency-tokens",
+      "baseRefName": "main",
+      "baseRefOid": "60614478a1706dc2109a7453c059649f83f5bd3a",
+      "headRepository": "martinthomson/draft-steele-spice-transparency-tokens",
+      "headRefName": "patch-1",
+      "headRefOid": "b27daa02ea6ab727fc865db8ba38ec382136607b",
+      "closedAt": null,
+      "mergedAt": null,
+      "mergedBy": null,
+      "mergeCommit": null,
+      "comments": [],
       "reviews": []
     }
   ]
